@@ -1,7 +1,9 @@
-# uikit-layout-workshop
-DVT 2023 Grad Program - UIKit workshop starter project
+# UIKit Layout Workshop starter project
 
+DVT 2023 Grad Program - UIKit workshop starter project
 This is a starter project for UIKit layout workshop.
+In isolation, this project alone doesn't complete all the learning materials for this workshop.
+Please ensure that You have acquired the presentations slides and the recording of the session.
 
 ## Build Instructions
 
